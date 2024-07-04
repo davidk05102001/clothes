@@ -1,0 +1,41 @@
+
+
+  
+  
+  
+  @media(min-width=380px) and(max-width:480px){
+    body{
+      background-color: aquamarine;
+    }
+    
+  }
+        
+
+  .text{
+    background-color:rgb(196, 33, 33);
+    text-transform: capitalize;
+    text-align: center;
+    background: -webkit-linear-gradient(cyan , violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    
+  }
+  h5{
+    font-size: 2rem;
+
+    
+  }
+  FOOTER{
+    background-color: rgb(47, 113, 255);
+    text-align: right;
+  }
+  IMG{
+    padding: 100PX;
+    border-bottom: 40px;
+  }
+  body{
+    background: linear-gradient(220deg,red,blue,white,pink);
+    border-style: double;
+    border-color: aqua;
+  }
+  
